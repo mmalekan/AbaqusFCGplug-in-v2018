@@ -6,4 +6,5 @@ Keep in mind that this version of the plug-in only works with Abaqus 2018. So, i
 
 For educational and research purposes only.
 
-Cite this article if you use this plug-in: Malekan, M., Khosravi, A. & St-Pierre, L. An Abaqus plug-in to simulate fatigue crack growth. Engineering with Computers (2021). https://doi.org/10.1007/s00366-021-01321-x
+Cite this article if you use this plug-in:
+Malekan, M., Khosravi, A. & St-Pierre, L. An Abaqus plug-in to simulate fatigue crack growth. Engineering with Computers (2021). https://doi.org/10.1007/s00366-021-01321-x
